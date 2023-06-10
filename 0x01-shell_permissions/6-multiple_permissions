@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ogu+xxr
+chmod 715 hello 
